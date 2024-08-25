@@ -7,7 +7,7 @@ A Passionate Full Stack Developer with a strong background in Flutter developmen
   <tr>
     <th>Front End</th>
     <th>Back End</th>
-    <th>3rd Parties</th>
+    <th>Google SDKs</th>
     <th>Other Skills</th>
     <th>Learning</th>
   </tr>
@@ -26,14 +26,15 @@ A Passionate Full Stack Developer with a strong background in Flutter developmen
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" width="40" height="40"/>
-      <img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" alt="Stripe" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/353801/google-admob.svg" alt="GoogleAdMob" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/375444/google-maps-platform.svg" alt="GoogleMaps" width="40" height="40"/>
+      <img src="https://www.svgrepo.com/show/353822/google-pay-icon.svg" alt="GooglePay" width="40" height="40"/>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
-      <img src="https://avatars.githubusercontent.com/u/74943865?s=200&v=4" alt="FlutterFlow" width="40" height="40"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
