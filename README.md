@@ -45,9 +45,6 @@ A Passionate Full Stack Developer with a strong background in Flutter developmen
   </tr>
 </table>
 
-## GitHub Public Repository Stats
-![Sanchit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mylzdev&show_icons=true&theme=transparent&hide=contribs)
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/john-miles-morales-2a5b1b280/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="30" width="40" /></a>
