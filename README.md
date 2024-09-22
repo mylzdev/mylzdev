@@ -7,6 +7,7 @@ A Passionate Full Stack Developer with a strong background in Flutter developmen
   <tr>
     <th>Front End</th>
     <th>Back End</th>
+    <th>CI/CD</th>
     <th>Other Skills</th>
     <th>Learning</th>
   </tr>
@@ -16,12 +17,16 @@ A Passionate Full Stack Developer with a strong background in Flutter developmen
       <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
       <img src="https://pub.dev/packages/bloc/versions/8.1.4/gen-res/gen/logo.webp" alt="Bloc" width="40" height="40"/>
       <img src="https://res.cloudinary.com/strapi/image/upload/v1621261454/logo_vgoldp.png" alt="GetX" width="40" height="40"/>
+      <img src="https://riverpod.dev/img/logo.png" alt="Riverpod" width="40" height="40"/>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node JS" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
+      <img src="https://avatars.githubusercontent.com/u/53334409?s=200&v=4" alt="CodeMagic" width="40" height="40"/>
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
@@ -30,13 +35,22 @@ A Passionate Full Stack Developer with a strong background in Flutter developmen
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Aws" width="40" height="40"/>
     </td>
   </tr>
 </table>
+
+## Stats
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mylzdev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=mylzdev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mylzdev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ## Connect with me:
 <p align="left">
