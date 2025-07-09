@@ -1,7 +1,7 @@
 # Hey 👋, I'm Miles!
 
 A Passionate Full Stack Developer with a strong background in Flutter development. Experienced in building dynamic mobile applications and actively participating in competitions, game jams, and hackathons. Dedicated to delivering innovative solutions and continually expanding technical skill.      
-## Technical Skills    
+## Technical Skills       
 
 <table>
   <tr>
